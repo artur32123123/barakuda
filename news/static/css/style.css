@@ -1,0 +1,40 @@
+.as{
+    background  : red !important;
+    }
+button:active{
+    transform: scale(1.1);
+}
+.bordery{
+    font-family: RoadTest;
+    color:#000000;
+    font-size: 27px;
+    margin: 0 0 0 5px;
+    }
+.home1{
+    font-family: RoadTest;
+    color:#000000;
+    font-size: 27px;
+    margin: 0 0 0 5px;
+}
+.home2{
+    font-family: RoadTest;
+    color:#000000;
+    font-size: 27px;
+    margin: 0 0 0 5px;
+}
+.web-hat{
+    width: 100%;
+    height: 200px;
+    background-color: #25B33f;
+    margin-bottom: 10px;
+    color: rgb(148, 255, 214);
+}
+
+.navbar-light .navbar-text a,{
+
+    color: rgb(148, 255, 214);
+}
+
+.nav-item home1{
+    color: rgb(148, 255, 214);
+    }
